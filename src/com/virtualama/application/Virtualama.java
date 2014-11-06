@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.virtualama.app;
+package com.virtualama.application;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

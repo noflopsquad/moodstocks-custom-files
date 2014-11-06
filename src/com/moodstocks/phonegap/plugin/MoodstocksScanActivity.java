@@ -23,7 +23,7 @@
 
 package com.moodstocks.phonegap.plugin;
 
-import com.virtualama.app.R;
+import com.virtualama.application.R;
 
 import org.apache.cordova.PluginResult;
 import org.json.JSONException;
